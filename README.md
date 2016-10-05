@@ -23,7 +23,7 @@ package.json file contins all the information that the service needed to work we
 
 
 ###Run the service
-> phantomjs.exe main.js
+' phantomjs.exe main.js'
 
 
 
