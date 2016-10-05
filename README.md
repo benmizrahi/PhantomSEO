@@ -12,13 +12,13 @@ This version of the code make use of phantomJS as a headless browser and has the
 
 ###Global Settings
 package.json file contins all the information that the service needed to work well:
-	a) **wservicename** - The service name
-    b) **debugMode** - "True"/"False"
-    c) **logLocationFolder** - Where to put the log files of phantom (empty is under logs folder is the working 		
+	- **wservicename** - The service name
+    - **debugMode** - "True"/"False"
+    - **logLocationFolder** - Where to put the log files of phantom (empty is under logs folder is the working 		
        dictionary).
-    d) **phantomPort** - what port should the service listen too.
-    e) **createSnapshoots** - "True"/"False".
-    f) **sanpshootFolder** - where to create the snapshoots files.
+    - **phantomPort** - what port should the service listen too.
+    - **createSnapshoots** - "True"/"False".
+    - **sanpshootFolder** - where to create the snapshoots files.
 
 
 
