@@ -1,0 +1,755 @@
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:New Request Arrive /?url=https://gisapp.taldor.co.il/KeshetAnnan/%25D7%25A2%25D7%2599%25D7%259F%2520%25D7%2592%25D7%25A0%25D7%2599%25D7%259D%252022%2520%25D7%25A4%25D7%25AA%25D7%2597%2520%25D7%25AA%25D7%25A7%25D7%2595%25D7%2595%25D7%2594
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:New Request Arrive /css/dis/bundleCSS.min.css?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/KeshetAnan/keshetAnanMain.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/scripts/dis/bundleJS.js?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/MainLoader.js?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/AppConstants.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/UIStateConfig.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Controllers/out.controllers.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Directives/out.directives.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Services/out.services.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/SearchResultObject.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/GeometryRequest.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/SerializationHelper.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/NavLevels.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/new_shape.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/kablan_man.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/f_info.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/desktop.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/tablet.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/mobile.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/realestate.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/gov.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/ic_search.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/pricingLogo.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/israel.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:New Request Arrive /favicon.ico
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from zombie
+15.8.2016 INFO:Return zombie HTML OK !
+15.8.2016 INFO:New Request Arrive /?url=https://gisapp.taldor.co.il/KeshetAnnan/%25D7%25A2%25D7%2599%25D7%259F%2520%25D7%2592%25D7%25A0%25D7%2599%25D7%259D%252022%2520%25D7%25A4%25D7%25AA%25D7%2597%2520%25D7%25AA%25D7%25A7%25D7%2595%25D7%2595%25D7%2594
+15.8.2016 INFO:Request Format is OK
+15.8.2016 ERROR:TypeError: undefined is not a constructor (evaluating 'fs.existsSync(fileName)')
+15.8.2016 ERROR:An error occurred processing the request url/?url=https://gisapp.taldor.co.il/KeshetAnnan/%25D7%25A2%25D7%2599%25D7%259F%2520%25D7%2592%25D7%25A0%25D7%2599%25D7%259D%252022%2520%25D7%25A4%25D7%25AA%25D7%2597%2520%25D7%25AA%25D7%25A7%25D7%2595%25D7%2595%25D7%2594
+15.8.2016 ERROR:ex is :{"line":23,"sourceURL":"phantomjs://platform/SnapshootsHandler.js","stack":"_getSanpshootForUrl@phantomjs://platform/SnapshootsHandler.js:23:27\ngetSnapsootHtmlOrNull@phantomjs://platform/SnapshootsHandler.js:33:43\nphantomjs://code/main.js:22:79"}
+15.8.2016 INFO:New Request Arrive /favicon.ico
+15.8.2016 INFO:Request Format is OK
+15.8.2016 ERROR:TypeError: undefined is not a constructor (evaluating 'fs.existsSync(fileName)')
+15.8.2016 ERROR:An error occurred processing the request url/favicon.ico
+15.8.2016 ERROR:ex is :{"line":23,"sourceURL":"phantomjs://platform/SnapshootsHandler.js","stack":"_getSanpshootForUrl@phantomjs://platform/SnapshootsHandler.js:23:27\ngetSnapsootHtmlOrNull@phantomjs://platform/SnapshootsHandler.js:33:43\nphantomjs://code/main.js:22:79"}
+15.8.2016 INFO:New Request Arrive /?url=https://gisapp.taldor.co.il/KeshetAnnan/%25D7%25A2%25D7%2599%25D7%259F%2520%25D7%2592%25D7%25A0%25D7%2599%25D7%259D%252022%2520%25D7%25A4%25D7%25AA%25D7%2597%2520%25D7%25AA%25D7%25A7%25D7%2595%25D7%2595%25D7%2594
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:New Request Arrive /?url=https://gisapp.taldor.co.il/KeshetAnnan/%25D7%25A2%25D7%2599%25D7%259F%2520%25D7%2592%25D7%25A0%25D7%2599%25D7%259D%252022%2520%25D7%25A4%25D7%25AA%25D7%2597%2520%25D7%25AA%25D7%25A7%25D7%2595%25D7%2595%25D7%2594
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /?url=https://gisapp.taldor.co.il/KeshetAnnan/%25D7%25A2%25D7%2599%25D7%259F%2520%25D7%2592%25D7%25A0%25D7%2599%25D7%259D%252022%2520%25D7%25A4%25D7%25AA%25D7%2597%2520%25D7%25AA%25D7%25A7%25D7%2595%25D7%2595%25D7%2594
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:https://gisapp.taldor.co.il/KeshetAnnan/%D7%A2%D7%99%D7%9F%20%D7%92%D7%A0%D7%99%D7%9D%2022%20%D7%A4%D7%AA%D7%97%20%D7%AA%D7%A7%D7%95%D7%95%D7%94
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:https://gisapp.taldor.co.il/KeshetAnnan/%D7%A2%D7%99%D7%9F%20%D7%92%D7%A0%D7%99%D7%9D%2022%20%D7%A4%D7%AA%D7%97%20%D7%AA%D7%A7%D7%95%D7%95%D7%94
+15.8.2016 INFO:New Request Arrive /?url=https://gisapp.taldor.co.il/KeshetAnnan/%25D7%25A2%25D7%2599%25D7%259F%2520%25D7%2592%25D7%25A0%25D7%2599%25D7%259D%252022%2520%25D7%25A4%25D7%25AA%25D7%2597%2520%25D7%25AA%25D7%25A7%25D7%2595%25D7%2595%25D7%2594
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:https://gisapp.taldor.co.il/KeshetAnnan/%D7%A2%D7%99%D7%9F%20%D7%92%D7%A0%D7%99%D7%9D%2022%20%D7%A4%D7%AA%D7%97%20%D7%AA%D7%A7%D7%95%D7%95%D7%94
+15.8.2016 INFO:New Request Arrive /?url=https://gisapp.taldor.co.il/KeshetAnnan/%25D7%25A2%25D7%2599%25D7%259F%2520%25D7%2592%25D7%25A0%25D7%2599%25D7%259D%252022%2520%25D7%25A4%25D7%25AA%25D7%2597%2520%25D7%25AA%25D7%25A7%25D7%2595%25D7%2595%25D7%2594
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:https://gisapp.taldor.co.il/KeshetAnnan/%D7%A2%D7%99%D7%9F%20%D7%92%D7%A0%D7%99%D7%9D%2022%20%D7%A4%D7%AA%D7%97%20%D7%AA%D7%A7%D7%95%D7%95%D7%94
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :https://gisapp.taldor.co.il/KeshetAnnan/%D7%A2%D7%99%D7%9F%20%D7%92%D7%A0%D7%99%D7%9D%2022%20%D7%A4%D7%AA%D7%97%20%D7%AA%D7%A7%D7%95%D7%95%D7%94!
+15.8.2016 INFO:New Request Arrive /css/dis/bundleCSS.min.css?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/KeshetAnan/keshetAnanMain.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/scripts/dis/bundleJS.js?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/MainLoader.js?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/css/dis/bundleCSS.min.css?v=1.0.1
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/css/dis/bundleCSS.min.css?v=1.0.1!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnnan/KeshetAnan/keshetAnanMain.js?v=1.0.4
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnnan/KeshetAnan/keshetAnanMain.js?v=1.0.4!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnnan/scripts/dis/bundleJS.js?v=1.0.1
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnnan/scripts/dis/bundleJS.js?v=1.0.1!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnnan/MainLoader.js?v=1.0.1
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnnan/MainLoader.js?v=1.0.1!
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/AppConstants.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/UIStateConfig.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Controllers/out.controllers.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Directives/out.directives.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Services/out.services.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/GeometryRequest.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnan/Config/AppConstants.js?v=1.0.4
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnan/Config/AppConstants.js?v=1.0.4!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnan/Config/UIStateConfig.js?v=1.0.4
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnan/Config/UIStateConfig.js?v=1.0.4!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnan/Controllers/out.controllers.js?v=1.0.4
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnan/Controllers/out.controllers.js?v=1.0.4!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnan/Directives/out.directives.js?v=1.0.4
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnan/Directives/out.directives.js?v=1.0.4!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnan/Services/out.services.js?v=1.0.4
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnan/Services/out.services.js?v=1.0.4!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnan/Global/GeometryRequest.js?v=1.0.4
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnan/Global/GeometryRequest.js?v=1.0.4!
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/SearchResultObject.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/NavLevels.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/SerializationHelper.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/new_shape.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/kablan_man.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/f_info.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnan/Global/SearchResultObject.js?v=1.0.4
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnan/Global/SearchResultObject.js?v=1.0.4!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnan/Global/NavLevels.js?v=1.0.4
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnan/Global/NavLevels.js?v=1.0.4!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnan/Config/SerializationHelper.js?v=1.0.4
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnan/Config/SerializationHelper.js?v=1.0.4!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnnan/images/new_shape.png
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnnan/images/new_shape.png!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnnan/images/kablan_man.png
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnnan/images/kablan_man.png!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnnan/images/f_info.png
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnnan/images/f_info.png!
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/desktop.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/tablet.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/mobile.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/realestate.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/gov.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/ic_search.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnnan/images/desktop.png
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnnan/images/desktop.png!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnnan/images/tablet.png
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnnan/images/tablet.png!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnnan/images/mobile.png
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnnan/images/mobile.png!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnnan/images/realestate.png
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnnan/images/realestate.png!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnnan/images/gov.png
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnnan/images/gov.png!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnnan/images/ic_search.png
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnnan/images/ic_search.png!
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/pricingLogo.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/israel.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnnan/images/pricingLogo.png
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnnan/images/pricingLogo.png!
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/KeshetAnnan/images/israel.png
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/KeshetAnnan/images/israel.png!
+15.8.2016 INFO:New Request Arrive /favicon.ico
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:/favicon.ico
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :/favicon.ico!
+15.8.2016 INFO:New Request Arrive /?url=https://gisapp.taldor.co.il/KeshetAnnan/%25D7%25A2%25D7%2599%25D7%259F%2520%25D7%2592%25D7%25A0%25D7%2599%25D7%259D%252022%2520%25D7%25A4%25D7%25AA%25D7%2597%2520%25D7%25AA%25D7%25A7%25D7%2595%25D7%2595%25D7%2594
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /css/dis/bundleCSS.min.css?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/scripts/dis/bundleJS.js?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/MainLoader.js?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/KeshetAnan/keshetAnanMain.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/AppConstants.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/UIStateConfig.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Controllers/out.controllers.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Directives/out.directives.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Services/out.services.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/GeometryRequest.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/SearchResultObject.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/NavLevels.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/SerializationHelper.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/new_shape.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/kablan_man.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/f_info.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/desktop.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/tablet.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/mobile.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/realestate.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/gov.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/ic_search.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/pricingLogo.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/israel.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /favicon.ico
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /?url=https://gisapp.taldor.co.il/KeshetAnnan/%25D7%25A2%25D7%2599%25D7%259F%2520%25D7%2592%25D7%25A0%25D7%2599%25D7%259D%252022%2520%25D7%25A4%25D7%25AA%25D7%2597%2520%25D7%25AA%25D7%25A7%25D7%2595%25D7%2595%25D7%2594
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /css/dis/bundleCSS.min.css?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/KeshetAnan/keshetAnanMain.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/scripts/dis/bundleJS.js?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/MainLoader.js?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/AppConstants.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/UIStateConfig.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Controllers/out.controllers.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Directives/out.directives.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Services/out.services.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/SearchResultObject.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/GeometryRequest.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/NavLevels.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/SerializationHelper.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/new_shape.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/kablan_man.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/f_info.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/desktop.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/tablet.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/mobile.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/realestate.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/gov.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/ic_search.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/pricingLogo.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /?url=https://gisapp.taldor.co.il/KeshetAnnan/%25D7%25A2%25D7%2599%25D7%259F%2520%25D7%2592%25D7%25A0%25D7%2599%25D7%259D%252022%2520%25D7%25A4%25D7%25AA%25D7%2597%2520%25D7%25AA%25D7%25A7%25D7%2595%25D7%2595%25D7%2594
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/israel.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /css/dis/bundleCSS.min.css?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/scripts/dis/bundleJS.js?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/MainLoader.js?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/KeshetAnan/keshetAnanMain.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/AppConstants.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Controllers/out.controllers.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/UIStateConfig.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Directives/out.directives.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Services/out.services.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/GeometryRequest.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/SearchResultObject.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/NavLevels.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/SerializationHelper.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/new_shape.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/kablan_man.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/f_info.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/desktop.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/tablet.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/mobile.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/realestate.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/gov.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/ic_search.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/pricingLogo.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/israel.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /favicon.ico
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /?url=https://gisapp.taldor.co.il/KeshetAnnan/%25D7%2594%25D7%259E%25D7%2592%25D7%2599%25D7%25A0%25D7%2599%25D7%259D%2520%25D7%25A4%25D7%25AA%25D7%2597%2520%25D7%25AA%25D7%25A7%25D7%2595%25D7%2595%25D7%2594
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loading HTML from zombie browser
+15.8.2016 INFO:Callback recived from Phantom
+15.8.2016 INFO:Creatring a snapshoot for url:https://gisapp.taldor.co.il/KeshetAnnan/%D7%94%D7%9E%D7%92%D7%99%D7%A0%D7%99%D7%9D%20%D7%A4%D7%AA%D7%97%20%D7%AA%D7%A7%D7%95%D7%95%D7%94
+15.8.2016 INFO:Snapshoot created successfully
+15.8.2016 INFO:Return Phantom HTML OK for url :https://gisapp.taldor.co.il/KeshetAnnan/%D7%94%D7%9E%D7%92%D7%99%D7%A0%D7%99%D7%9D%20%D7%A4%D7%AA%D7%97%20%D7%AA%D7%A7%D7%95%D7%95%D7%94!
+15.8.2016 INFO:New Request Arrive /css/dis/bundleCSS.min.css?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/KeshetAnan/keshetAnanMain.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/scripts/dis/bundleJS.js?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/MainLoader.js?v=1.0.1
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/AppConstants.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/UIStateConfig.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Controllers/out.controllers.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Directives/out.directives.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Services/out.services.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/GeometryRequest.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/SearchResultObject.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Global/NavLevels.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnan/Config/SerializationHelper.js?v=1.0.4
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/realestate.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/gov.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/new_shape.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/ic_search.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/pricingLogo.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/israel.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/kablan_man.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/f_info.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/desktop.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/tablet.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /KeshetAnnan/images/mobile.png
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
+15.8.2016 INFO:New Request Arrive /favicon.ico
+15.8.2016 INFO:Request Format is OK
+15.8.2016 INFO:Loding response from sanpshoots!
+15.8.2016 INFO:Return Sanpshoot HTML !
